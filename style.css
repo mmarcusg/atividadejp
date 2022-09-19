@@ -1,0 +1,32 @@
+body{
+    background-color: #e9ebee;
+    color: white;
+}
+.h1{
+    background-color: rgb(30, 179, 216);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    background-color: rgb(30, 179, 216);    
+    border: 1px rgb(30, 179, 216);
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 30%;
+    
+}
+.img1{
+    display: block;
+    margin: 0 auto;
+}
+
+.primeiro{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin: 0 auto;
+}
